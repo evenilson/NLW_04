@@ -10,3 +10,8 @@ O NLW é um evento online com muito código, desafios, networking e um único
 - Nesse segundo dia aprendemos o que é Next.js e quando utilizar no desenvolvimento de aplicações React.
 - Realizamos a migração do projeto do moveit para o Next.js
 - Criamos nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios.
+
+## 3º Dia (AULA 03) - Contexto e componentes
+- Na terceiro aula foi realizado uma separação da aplicação em componentes menores
+- Foi aplicado o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela.
+- Finalizado também a funcionalidade de desafios.
