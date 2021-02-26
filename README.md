@@ -15,3 +15,7 @@ O NLW é um evento online com muito código, desafios, networking e um único
 - Na terceiro aula foi realizado uma separação da aplicação em componentes menores
 - Foi aplicado o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela.
 - Finalizado também a funcionalidade de desafios.
+
+## 4º Dia (AULA 04) - Melhorando a usabilidade da aplicação
+- Na quarta aula evoluimos nossa aplicação, aprendendo ainda mais sobre a Context API
+- Aprendemos a como utilizar as notificações e sons do navegador para melhorar a experiência do usuário.
