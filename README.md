@@ -19,3 +19,11 @@ O NLW é um evento online com muito código, desafios, networking e um único
 ## 4º Dia (AULA 04) - Melhorando a usabilidade da aplicação
 - Na quarta aula evoluimos nossa aplicação, aprendendo ainda mais sobre a Context API
 - Aprendemos a como utilizar as notificações e sons do navegador para melhorar a experiência do usuário.
+
+## 5º Dia (AULA 05) - Próximo nível com React
+- Na aula entendemos os próximos passos para avançar nos aprendizados com React com dicas de ferramentas, bibliotecas e conceitos a serem estudados. 
+- Também incrementamos nossa aplicação com algumas features adicionais a fim de mostrar como aplicar esses próximos passos dentro do app desenvolvido na semana.
+
+### Deploy
+- O deploy da aplicação foi feita no Vercel, você pode acessar clicando [aqui](https://nowmoveit.vercel.app/)
+
